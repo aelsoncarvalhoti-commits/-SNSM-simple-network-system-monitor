@@ -1,1 +1,1 @@
-# Simple Wire Pc Monitor
+# SNSM simple network system monitor
