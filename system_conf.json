@@ -1,0 +1,7 @@
+{
+    "system_name": "teste",
+    "server": false,
+    "server_ip": "",
+    "monitor_timing": 30,
+    "remote_commands": false
+}
