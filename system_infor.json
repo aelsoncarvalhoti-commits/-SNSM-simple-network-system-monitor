@@ -1,1 +1,1 @@
-{"Sistem": "Sistem: Linux 6.14.0-33-generic", "Arquitecture": "x86_64", "Total of cores": "4", "Total of threads": "4", "Memory total": "5.73GB", "Discs": {"/": "95.37GB Total | 11.00GB", "/boot/efi": "0.95GB Total | 0.01GB", "/home": "365.62GB Total | 0.90GB"}}
+{"system": "Linux 6.14.0-33-generic", "arquitecture": "x86_64", "total_of_cores": "4", "total_of_threads": "4", "total_of_memory": "5.73GB", "discs": {"/": "95.37GB Total | 19.80GB", "/boot/efi": "0.95GB Total | 0.01GB", "/home": "365.62GB Total | 17.17GB"}}

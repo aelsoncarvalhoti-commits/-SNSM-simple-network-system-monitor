@@ -1,0 +1,2 @@
+
+19-10-2025 08:13:20: Error in open system config file <_io.TextIOWrapper name='erro_log.txt' mode='a' encoding='UTF-8'> 
